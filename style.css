@@ -1,4 +1,13 @@
-h3{
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans";
+
+}
+.primary{
+    color: #FD6E0A;
+}
+.logo{
     color: #181818;
 font-family: "Open Sans";
 font-size: 52px;
@@ -7,13 +16,38 @@ font-weight: 800;
 line-height: normal;
 margin: 0;padding: 0;
 }
-span{
-    color:#FD6E0A;
-  }
+
   .nav{
       display: flex;
       justify-content: space-between;
+      
   }
-  .list{
+  nav > ul{
+    display: flex;
+    align-items: center;
+    
+  }
+nav li{
+    list-style:none ;
+    margin-right: 51px;
+   
+}
+nav li a{
     text-decoration: none;
-  }
+    color: #474747;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+} nav li button{
+    color: #fff;
+background-color: #FD6E0A;
+border-radius: 5px;
+padding: 18px 35px;
+border: none;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
