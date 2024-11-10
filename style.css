@@ -322,3 +322,31 @@ line-height: 28px; /* 175% */
     font-weight: 700;
     line-height: normal;
 }
+/* A summary of My Resume section ended */
+/* footer section start */
+.footer{
+    background: #FFF8F3;
+    padding: 70px 200px ;
+    display: flex;
+} 
+.footer div{
+    width: 50%;
+    margin: 0px 30px;
+}  
+.footer form .in{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px ;
+    border: none;
+
+}
+#in-3{
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
