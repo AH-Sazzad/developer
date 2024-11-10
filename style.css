@@ -1,0 +1,19 @@
+h3{
+    color: #181818;
+font-family: "Open Sans";
+font-size: 52px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin: 0;padding: 0;
+}
+span{
+    color:#FD6E0A;
+  }
+  .nav{
+      display: flex;
+      justify-content: space-between;
+  }
+  .list{
+    text-decoration: none;
+  }
