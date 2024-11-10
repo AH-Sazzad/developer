@@ -252,3 +252,73 @@ line-height: 28px; /* 175% */
 .lang > img{
     width: 70px;
 }
+/* A summary of My Resume section start */
+.resume{
+    margin: 150px 260px;
+}
+.resume-title{
+    color: #181818;
+text-align: center;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.edu-exp{
+    display: flex;
+}
+.edu-list{
+    margin: 0px 20px 10px;
+}
+hr{
+    margin: 0px 20px 10px;
+}
+.edu-title{
+    color: #474747;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.edu-name{
+    color: #474747;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0px 4px;
+}
+.edu-uni{
+    color:#757575;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin: 0px 4px;
+}
+.details{
+    color:  #757575;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+margin: 0px 4px;
+line-height: 28px; /* 175% */
+}
+.cv{
+    display: flex;
+    justify-content: center;
+    padding: 25px 0px;
+}
+.btn3{
+    color: #FFF;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: none;
+    padding: 16px;
+    margin-right: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
